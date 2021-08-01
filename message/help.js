@@ -1,5 +1,5 @@
 exports.menu = (prefix, i) => {
-    return `*Xinz Bot*
+    return `*BBTSTRG*
 Created by Xinz Team
 
 *INFO*
@@ -196,7 +196,7 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├≽ *Nanda*
 ├≽ *Juwen*
 ├≽ *Adiwajshing/Baileys*
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.stickerMenu = (prefix, ownerName) => {
@@ -258,8 +258,8 @@ exports.groupMenu = (prefix, ownerName) => {
 ├≽ *${prefix}getpp*
 ├≽ *${prefix}mute*
 ├≽ *${prefix}unmute*
-├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+├───────────────────
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.sistemMenu = (prefix, ownerName) => {
@@ -271,7 +271,7 @@ exports.sistemMenu = (prefix, ownerName) => {
 ├≽ *${prefix}welcome*
 ├≽ *${prefix}left*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.kerangMenu = (prefix, ownerName) => {
@@ -285,7 +285,7 @@ exports.kerangMenu = (prefix, ownerName) => {
 ├≽ *${prefix}cekbapak*
 ├≽ *${prefix}seberapagay*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.gameMenu = (prefix, ownerName) => {
@@ -299,7 +299,7 @@ exports.gameMenu = (prefix, ownerName) => {
 ├≽ *${prefix}truth*
 ├≽ *${prefix}dare*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.downloadMenu = (prefix, ownerName) => {
@@ -314,7 +314,7 @@ exports.downloadMenu = (prefix, ownerName) => {
 ├≽ *${prefix}instagram*
 ├≽ *${prefix}facebook*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.searchMenu = (prefix, ownerName) => {
@@ -323,7 +323,7 @@ exports.searchMenu = (prefix, ownerName) => {
 ├≽ *${prefix}yts*
 ├≽ *${prefix}pinterest*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.stalkMenu = (prefix, ownerName) => {
@@ -332,7 +332,7 @@ exports.stalkMenu = (prefix, ownerName) => {
 ├≽ *${prefix}igstalk*
 ├≽ *${prefix}ghstalk*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.randomMenu = (prefix, ownerName) => {
@@ -347,7 +347,7 @@ exports.randomMenu = (prefix, ownerName) => {
 ├≽ *${prefix}katabijak
 ├≽ *${prefix}motivasi
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.animeMenu = (prefix, ownerName) => {
@@ -361,7 +361,7 @@ exports.animeMenu = (prefix, ownerName) => {
 ├≽ *${prefix}megumin*
 ├≽ *${prefix}shinobu*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.toolsMenu = (prefix, ownerName) => {
@@ -375,7 +375,7 @@ exports.toolsMenu = (prefix, ownerName) => {
 ├≽ *${prefix}tinyurl*
 ├≽ *${prefix}translate*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.makerMenu = (prefix, ownerName) => {
@@ -387,7 +387,7 @@ exports.makerMenu = (prefix, ownerName) => {
 ├≽ *${prefix}glitch*
 ├≽ *${prefix}pornhub*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.otherMenu = (prefix, ownerName) => {
@@ -411,7 +411,7 @@ exports.otherMenu = (prefix, ownerName) => {
 ├≽ *${prefix}topbalance*
 ├≽ *${prefix}cekapikey*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.hentaiMenu = (prefix, ownerName) => {
@@ -427,7 +427,7 @@ exports.hentaiMenu = (prefix, ownerName) => {
 ├≽ *${prefix}nsfwboobs*
 ├≽ *${prefix}nsfwkuni*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.storageMenu = (prefix, ownerName) => {
@@ -441,5 +441,5 @@ exports.storageMenu = (prefix, ownerName) => {
 ├≽ *${prefix}sound6*
 ├≽ *${prefix}sound7*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBT}* 》 ═══`
 }
