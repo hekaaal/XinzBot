@@ -1,5 +1,5 @@
 exports.menu = (prefix, i) => {
-    return `*Xinz Bot*
+    return `*bbtstrg*
 Created by Xinz Team
 
 *INFO*
@@ -196,7 +196,7 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├≽ *Nanda*
 ├≽ *Juwen*
 ├≽ *Adiwajshing/Baileys*
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.stickerMenu = (prefix, ownerName) => {
@@ -427,7 +427,7 @@ exports.hentaiMenu = (prefix, ownerName) => {
 ├≽ *${prefix}nsfwboobs*
 ├≽ *${prefix}nsfwkuni*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
 
 exports.storageMenu = (prefix, ownerName) => {
@@ -441,5 +441,5 @@ exports.storageMenu = (prefix, ownerName) => {
 ├≽ *${prefix}sound6*
 ├≽ *${prefix}sound7*
 ├─────────────────────
-╘═══ 《 *By ${ownerName}* 》 ═══`
+╘═══ 《 *By ${BBTSTRG}* 》 ═══`
 }
